@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karolina.
-- 👀 I’m interested in programming on the JVM, UNIX based systmes and home robotics
+- 👀 I’m interested in programming on the JVM, UNIX based systems and home robotics
 - 🌱 I’m currently learning JWT, BlockChain, and NLP
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: write me at rakolina@gmail.com
